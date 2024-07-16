@@ -1,0 +1,6 @@
+./backend/Include
+./backend/Scripts
+./backend/Lib
+./backend/pyenv.config
+
+.env

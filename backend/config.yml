@@ -1,0 +1,2 @@
+db:
+  url: "postgresql+psycopg2://postgres:bt3PdQWYSPWYEm92TNTv@team-track-db.cfw288ayalpj.eu-west-2.rds.amazonaws.com/team-track"
